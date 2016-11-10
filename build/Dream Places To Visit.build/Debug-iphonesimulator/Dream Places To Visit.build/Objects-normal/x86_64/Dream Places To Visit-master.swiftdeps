@@ -1,0 +1,6 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "053275305b7dbffc867e706e76a09fdf"
+inputs: 
+- "/Users/Adhita/Documents/iOS_Apps/Dream Places To Visit/Dream Places To Visit/ViewController.swift"
+- "/Users/Adhita/Documents/iOS_Apps/Dream Places To Visit/Dream Places To Visit/TableViewController.swift"
+- "/Users/Adhita/Documents/iOS_Apps/Dream Places To Visit/Dream Places To Visit/AppDelegate.swift"
